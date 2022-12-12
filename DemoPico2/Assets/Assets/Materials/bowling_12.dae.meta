@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 6aac7cdefa1d0634c839138254a45918
+timeCreated: 1670252066
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Empty
+    100006: Light
+    100008: s1
+    100010: s10
+    100012: s2
+    100014: s3
+    100016: s4
+    100018: s5
+    100020: s6
+    100022: s7
+    100024: s8
+    100026: s9
+    100028: Sphere
+    400000: //RootNode
+    400002: Camera
+    400004: Empty
+    400006: Light
+    400008: s1
+    400010: s10
+    400012: s2
+    400014: s3
+    400016: s4
+    400018: s5
+    400020: s6
+    400022: s7
+    400024: s8
+    400026: s9
+    400028: Sphere
+    2000000: Camera
+    2300000: s1
+    2300002: s10
+    2300004: s2
+    2300006: s3
+    2300008: s4
+    2300010: s5
+    2300012: s6
+    2300014: s7
+    2300016: s8
+    2300018: s9
+    2300020: Sphere
+    3300000: s1
+    3300002: s10
+    3300004: s2
+    3300006: s3
+    3300008: s4
+    3300010: s5
+    3300012: s6
+    3300014: s7
+    3300016: s8
+    3300018: s9
+    3300020: Sphere
+    4300000: Sphere
+    4300002: s10
+    4300004: s9
+    4300006: s8
+    4300008: s7
+    4300010: s6
+    4300012: s5
+    4300014: s4
+    4300016: s3
+    4300018: s2
+    4300020: s1
+    9500000: //RootNode
+    10800000: Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 21721abbb8147bf41a65e62744782a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 46f3820d19f79584e8fb31261c5f3f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 2d1d41c5d2277a4478202c0070a68780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: de7b81713f8018c4bbe7b63a5c98152b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
